@@ -22,11 +22,15 @@ npm install
 
 3. Create a .env file with the following content:
 
-MONGO_URI=mongodb://localhost:27017/youtubeUploader
+MONGO_URI=mongodb://localhost:27017/youtubeUploader 
 CLIENT_ID=your_google_client_id
+
 CLIENT_SECRET=your_google_client_secret
+
 REDIRECT_URL=your_google_redirect_url
+
 ACCESS_TOKEN=your_google_access_token
+
 REFRESH_TOKEN=your_google_refresh_token
 
 4. Start the server:
